@@ -1,0 +1,7 @@
+The total address records from pevious step is 2547 in estatelisnew.csv and after the following
+filter and modification, the data records are reduced to 2221 and saved at estate_0319.csv
+
+1.eliminate estates address contain city only.
+2.eliminate estates with same address partially which are company(agent) in the same building.
+3.eliminate estates with wrong address number.
+4.modify address format and delete the suite number.
